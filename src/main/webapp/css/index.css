@@ -1,0 +1,87 @@
+
+/* bootstrap.css | http://localhost:8080/css/bootstrap.css */
+
+body{
+    background-color: cadetblue;
+}
+a{
+    text-decoration: none;
+}
+a.navbar-brand {
+    color: powderblue;
+    font-size: 27px;
+}
+.navbar-fixed-top {
+    background: black;
+    height: 60px;
+}
+.navbar-header {
+    text-align: center;
+    line-height: 60px;
+}
+.container-fluid {
+    margin-top: 120px;
+    width: 200px;
+    background: cornsilk;
+    float: left;
+    margin-left: 25px;
+}
+
+li {
+    margin-top: 27px;
+}
+
+
+.nav-header {
+    /* font-weight: bold; */
+}
+
+/* 内联 #3 | http://localhost:8080/index.jsp### */
+
+.col-sm-9.col-sm-offset-3.col-md-10.col-md-offset-2.main {
+}
+
+#content {
+    margin-left: 310px;
+}
+
+.active {
+}
+.nav-list > li > a {
+    color: crimson;
+}
+
+.nav-header.menu-first {
+    font-size: 28px;
+}
+
+#userMeun {
+    margin-left: 55px;
+}
+
+#productMeun {
+    margin-left: 55px;
+}
+
+#recordMeun {
+    margin-left: 55px;
+}
+
+.fa.fa-users {
+    font-size: 20px;
+}
+
+.fa.fa-list-alt {
+    font-size: 20px;
+}
+
+.fa.fa-list {
+    font-size: 20px;
+}
+
+/* font-awesome.css | http://localhost:8080/css/font-awesome.css */
+
+.fa {
+    /* font-size: inherit; */
+    font-size: 30px;
+}

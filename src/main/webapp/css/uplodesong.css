@@ -1,0 +1,27 @@
+
+.input-group {
+    margin-left: 240px;
+}
+input.form-control {
+    width: 400px;
+    /* height: 20px; */
+}
+button.btn.btn-primary {
+    margin-top: -10px;
+}
+.table {
+    background: beige;
+    width: 96%;
+}
+[v-cloak] {
+    display: none;
+}
+th {
+    width: 30px;
+}
+a {
+    text-decoration: none;
+    color: beige;
+    font-size: 20px;
+    margin-left: 10px;
+}
